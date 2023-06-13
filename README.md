@@ -6,3 +6,10 @@ Hello! I'm  Erkan GİRGİN
 * ✨ Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Developer, passionate learner, and developer.
 
 ✨ girginerkan34@gmail.com
+
+Connect with me
+Instagram LinkedIn Discord Twitter Gmail
+
+
+💻 Tech Stack:
+HTML5 CSS3 JavaScript ReactJs Figma
