@@ -7,9 +7,3 @@ Hello! I'm  Erkan GİRGİN
 
 ✨ girginerkan34@gmail.com
 
-Connect with me
-Instagram LinkedIn Discord Twitter Gmail
-
-
-💻 Tech Stack:
-HTML5 CSS3 JavaScript ReactJs Figma
